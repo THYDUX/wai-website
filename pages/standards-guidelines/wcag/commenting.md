@@ -46,7 +46,7 @@ Please read this page for important information about commenting on Web Content 
 
 **Note that comments on WCAG 2 cannot impact the standard since it is no longer in development, although we will still take them into consideration as described below.**
 
-**WCAG 2.0 and WCAG 2.1 are stable Web Standards that will not change.** Your comments on WCAG 2 maybe be used for an errata (documenting errors), for updating Understanding WCAG 2 and Techniques for WCAG 2, or for informing the next generation of accessibility standards and guidelines.
+**WCAG 2.0 and WCAG 2.1 are stable Web Standards that will not change.** Your comments on WCAG 2 maybe be used for an errata (documenting errors), for updating Understanding WCAG 2 and Techniques for WCAG 2, or for informing the next generation of accessibility standards and guidelines. 
 
 **Understanding WCAG2 and Techniques for WCAG 2 will be updated periodically.** Your comments will help inform the updates.
 
@@ -128,3 +128,6 @@ Please see the following resources for more information:
 
 -   WCAG documents listed in the navigation area of this page
 -   [[How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/) 
+
+
+https://github/thydux
